@@ -2926,6 +2926,32 @@ body {
 .cid-rmw3ZNehnZ .mbr-section-btn {
   text-align: center;
 }
+.cid-rnx7tJXRhi {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rnx7tJXRhi .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rnx7tJXRhi .section-text {
+  padding: 2rem 0;
+}
+.cid-rnx7tJXRhi .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rnx7tJXRhi .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rnx7tJXRhi .section-text DIV {
+  color: #767676;
+}
 .cid-rnwV7yzDJ7 {
   padding-top: 90px;
   padding-bottom: 90px;
