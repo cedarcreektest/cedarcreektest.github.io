@@ -1929,7 +1929,7 @@ body {
   margin-bottom: 2rem;
 }
 .cid-roeuyjwuE2 .team-item .item-image img {
-  width: 100%;
+  width: 20%;
 }
 .cid-roeuyjwuE2 .team-item .item-name p {
   margin-bottom: 0;
@@ -1949,49 +1949,10 @@ body {
   font-size: 17px;
 }
 .cid-roeuyjwuE2 .team-item .item-caption {
-  background: #efefef;
+  background: #ffffff;
 }
 .cid-roeuyjwuE2 .item-role P {
   text-align: center;
-}
-.cid-rocJsByrT0 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rocJsByrT0 .card-img {
-  background-color: #fff;
-}
-.cid-rocJsByrT0 .card-box {
-  padding: 2rem;
-}
-.cid-rocJsByrT0 h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-rocJsByrT0 p {
-  text-align: left;
-}
-.cid-rocJsByrT0 .mbr-text {
-  color: #767676;
-}
-.cid-rocJsByrT0 .card-wrapper {
-  height: 100%;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-rocJsByrT0 .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-@media (min-width: 992px) {
-  .cid-rocJsByrT0 .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
-    -webkit-flex: 0 0 20%;
-  }
 }
 .cid-rmw6o2UE3s {
   padding-top: 90px;
