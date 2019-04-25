@@ -56,10 +56,11 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 133,
     "versionPublish": "4.9.7",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/yellowbgfadestatic-1.gif",
     "noImageResize": "",
     "siteUrl": "undefined",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": ""
   },
   "pages": {
     "Network.html": {
