@@ -1395,6 +1395,9 @@ body {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow {
   border-top-color: #102f6e;
 }
+#custom-html-3q {
+  /* Type valid CSS here */
+}
 .cid-rmwfEA3tUY .navbar {
   padding: .5rem 0;
   background: #ffffff;
@@ -1868,6 +1871,12 @@ body {
     -webkit-justify-content: center;
   }
 }
+#custom-html-3p {
+  /* Type valid CSS here */
+}
+#custom-html-3p .my-image {
+  width: 100%;
+}
 .cid-roezKyEJ3l {
   padding-top: 135px;
   padding-bottom: 75px;
@@ -2201,6 +2210,9 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+#custom-html-3r {
+  /* Type valid CSS here */
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
