@@ -2971,7 +2971,7 @@ body {
 }
 .cid-roFX4PbZCt {
   padding-top: 45px;
-  padding-bottom: 15px;
+  padding-bottom: 11px;
   background-color: #ffffff;
 }
 @media (min-width: 992px) {
@@ -3474,7 +3474,7 @@ body {
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-@media (min-width: 992px) {
+@media (min-width: 600px) {
   .cid-roFD7WVrqe .mbr-figure {
     padding-right: 4rem;
   }
@@ -4968,8 +4968,16 @@ body {
 .cid-roFV7IpCbw .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-rodZTiYz5g {
+.cid-ruhQksp3qi {
   padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-ruhQksp3qi .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rodZTiYz5g {
+  padding-top: 0px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
