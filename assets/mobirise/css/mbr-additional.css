@@ -1566,12 +1566,20 @@ section.lazy-placeholder:after {
 .cid-roFnHTIOQW .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-roezKyEJ3l {
-  background-image: url("../../../assets/images/mbr-1920x1281.jpg");
+.cid-rY3WGQkJOL {
+  padding-top: 135px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
+}
+.cid-rY3WGQkJOL P {
+  color: #767676;
+}
+.cid-rY3WGQkJOL H1 {
+  color: #ffffff;
 }
 .cid-rnx7tJXRhi {
   padding-top: 30px;
-  padding-bottom: 45px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-rnx7tJXRhi .line {
